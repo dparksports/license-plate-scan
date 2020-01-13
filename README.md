@@ -1,9 +1,6 @@
-# LPR Number Scanner
-Detect license plate number by MLKit
+# License Plate Scanner using Deep Learning
 
-In this sample, detected only 4-digit numbers
+## Uses
+- Google MLKit
+- Android v8.1 and above
 
-### References
-* https://github.com/firebase/quickstart-android/tree/master/mlkit
-* https://firebase.google.com/docs/ml-kit/android/recognize-text
-* https://firebase.google.com/docs/android/setup
